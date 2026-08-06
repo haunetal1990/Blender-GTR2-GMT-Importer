@@ -30,3 +30,4 @@ Dieses Plugin ermöglicht den Import von GMT-Dateien aus dem Rennspielklassiker 
 
 ## Topics
 https://forum.studio-397.com/index.php?threads/blender-plugins-from-me.73647/<br />
+https://www.overtake.gg/downloads/blender-gtr2-gmt-importer.85930/
