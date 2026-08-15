@@ -1,4 +1,5 @@
 ![alt text](https://i.postimg.cc/Ls94NNz8/picture.jpg "Screenshot Blender")
+![alt text](https://i.postimg.cc/RhDT5wd0/preview.png "Screenshot Blender")
 
 # Blender GTR2 & rFactor 1 GMT Importer
 
