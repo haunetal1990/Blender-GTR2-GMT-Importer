@@ -1,6 +1,6 @@
 ![alt text](https://i.postimg.cc/Ls94NNz8/picture.jpg "Screenshot Blender")
 
-# Blender GTR2 GMT Importer
+# Blender GTR2 & rFactor 1 GMT Importer
 
 This plugin allows you to import GMT files from the classic racing game **GTR2** directly into Blender. It supports importing track and car models, including their associated materials.
 
