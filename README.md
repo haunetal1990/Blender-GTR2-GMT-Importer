@@ -13,7 +13,7 @@ This plugin allows you to import GMT files from the classic racing game **GTR2**
 
 ---
 
-Dieses Plugin ermöglicht den Import von GMT-Dateien aus dem Rennspielklassiker **GTR2** & **rFactor 1** direkt in Blender. Es unterstützt den Import von Strecken- und Fahrzeugmodellen inklusive der dazugehörigen Materialien.
+Dieses Plugin ermöglicht den Import von GMT Dateien aus dem Rennspielklassiker **GTR2** & **rFactor 1** direkt in Blender. Es unterstützt den Import von Strecken- und Fahrzeugmodellen inklusive der dazugehörigen Materialien.
 
 ## Features
 
